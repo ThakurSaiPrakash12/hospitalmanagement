@@ -1,0 +1,10 @@
+.nav-item a:hover{
+    background-color: black;
+    color:white
+}
+
+body{
+    background-image: url(https://previews.123rf.com/images/leventegyori/leventegyori1506/leventegyori150600296/41666563-doctor-with-medical-background.jpg);
+    background-size:cover;
+    height:100vh;
+}
